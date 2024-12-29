@@ -1,6 +1,6 @@
 version: "3.9"
 
-name: ArifEbill
+name: ArifEbil
 
 services:
   nginx:
